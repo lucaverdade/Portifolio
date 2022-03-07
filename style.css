@@ -4,6 +4,50 @@
 *{
     margin: 0;
     padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+:root{
+--font-primary:"Josefin Sans" , serif ;
+--font-secundary: " Roboto Condensed";
+}
+
+
+.hamburguer{
+    /*background-color: red;*/
+    width: 2rem;
+    height: 2rem;
+    position: fixed;
+    z-index: 100;
+    right: 2rem;
+    top: 2rem; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
+/*
+.MenuLado{
+    width: 2rem;
+    height: 2rem;
+    position: fixed;
+    z-index: 100;
+    right: 6.5rem;
+    top: 2.3rem; 
+    display: flex;
+    font-family: var(--font-secundary);
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-shadow: .2rem .2rem  rgba(216, 217, 245, 1);
+    cursor: pointer;
+}
+*/
+.line{
+    width: 100%;
+    height: .1rem;
+    background-color: white;
+    box-shadow: 0.1rem 0.1rem 1px black;
 
 }
 
@@ -48,7 +92,7 @@ header{
 .banner h1{
     color: rgb(32, 39, 99);
     font-size: 3.5rem;
-    font-family: "Josefin Sans" , serif ;
+    font-family: var(--font-primary);
     font-weight: 600;
     text-shadow: .3rem .4rem 2px rgba(216, 217, 245, 1);
     line-height: 3.0rem ;
@@ -57,7 +101,7 @@ header{
     animation: moveBanner 1s 0.5s forwards;
 }
 .banner p{
-    font-family:"Roboto Condensed" ;
+    font-family:var(--font-secundary);
     color:  rgb(32, 39, 99);
     font-size: 2rem;
     text-shadow: .2rem .2rem  rgba(216, 217, 245, 1);
@@ -100,4 +144,54 @@ header{
         transform: translateY(0);
         opacity: 1;
     }
+}
+
+.sidebar{
+    width: 20rem;
+    height: 100vh;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+.menu{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.menu-item{
+    text-align: center;
+    margin-bottom: .5rem;
+}
+.menu-link{
+    font-family: var(--font-secundary);
+    font-size: 2rem;
+    color: rgb(32, 39, 99);
+    transition:color 0.5s ;
+}
+.menu-link:hover{
+    color: rgb(145, 145, 242);
+
+}
+.social-media{
+    position: absolute;
+    bottom: 2rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.social-media i{
+    color: #004e92;
+    height: 2.5rem;
+    width: 2.5rem;
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    border-radius:50%;
+    transition:font-size;
+}
+.social-media i:hover{
+    font-size: 3rem;
 }
