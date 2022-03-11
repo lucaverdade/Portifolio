@@ -12,8 +12,10 @@
   --font-primary: "Josefin Sans", serif;
   --font-secundary: " Roboto Condensed";
 }
-html{
+html {
   scroll-behavior: smooth;
+  display: inline-block;
+  overflow-x: hidden;
 }
 
 .hamburguer {
@@ -228,7 +230,6 @@ header {
   grid-template-rows: repeat(6, 6rem);
   row-gap: 0.5rem;
 }
-
 .conhecimento:nth-child(1) {
   grid-column: 4 / 7;
   grid-row: 1 / 3;
@@ -258,15 +259,16 @@ header {
   grid-column: 11 / 14;
   grid-row: 5 / -1;
 }
+
 .sessao-conhecimentos {
   background-color: #f8f4e9;
   height: 100%;
 }
+
 .sessao-header {
   display: flex;
   align-items: center;
   justify-content: center;
-  
 }
 .sessao-header h1 {
   font-family: var(--font-primary);
@@ -301,9 +303,8 @@ header {
   object-fit: cover;
   width: 100%;
 }
-.sessao-projetos{
-  background-color:#d1c4c0 ;
-  
+.sessao-projetos {
+  background-color: #d1c4c0;
 }
 .projetos {
   display: flex;
@@ -315,7 +316,6 @@ header {
   width: 18rem;
   height: 25rem;
   position: relative;
-  
 }
 
 .card-img-wrapper {
@@ -375,7 +375,7 @@ header {
   background: -webkit-linear-gradient(to right, #a044ff, #6a3093);
   background: linear-gradient(to left, #a044ff, #6a3093);
   font-family: var(--font-primary);
-  font-size: .9rem;
+  font-size: 0.9rem;
   color: #eee;
   border-radius: 0.5rem;
   border: none;
@@ -392,7 +392,7 @@ header {
   opacity: 1;
   visibility: visible;
 }
-footer{
+footer {
   width: 100%;
   height: 7rem;
   background-color: #262626;
@@ -401,19 +401,19 @@ footer{
   align-items: center;
 }
 
-.footer-content{
+.footer-content {
   width: 60%;
   display: flex;
   justify-content: space-between;
 }
 
-.footer-content p{
+.footer-content p {
   font-family: var(--font-primary);
   color: #a7a7a7;
   font-size: 1.2rem;
 }
 
-.social-list a{
+.social-list a {
   margin: 0 2rem;
   color: #a7a7a7;
   font-size: 1.3rem;
@@ -423,7 +423,7 @@ footer{
   display: flex;
 }
 
-#link-topo{
+#link-topo {
   position: fixed;
   right: 3rem;
   bottom: 3rem;
@@ -436,7 +436,81 @@ footer{
   justify-content: center;
   align-items: center;
   color: #fff;
-  border-radius: .3rem;
-  box-shadow:  0 0.1rem 0.6rem #00000009;
+  border-radius: 0.3rem;
+  box-shadow: 0 0.1rem 0.6rem #00000009;
 }
 
+@media (max-width: 700px) {
+  .container {
+    overflow-x: hidden;
+    text-align: center;
+  }
+
+  .sessao-conhecimentos {
+    height: 1700px;
+  }
+
+  .conhecimento-img-wrapper {
+    visibility: hidden;
+  }
+
+  .conhecimento-text {
+    text-justify: auto;
+  }
+
+  .conhecimento:nth-child(1) /*HTML*/ {
+    grid-column: 3 / 16;
+    grid-row: 1 / 3;
+  }
+
+  .conhecimento:nth-child(2) /*CSS*/ {
+    grid-column: 3 / 16;
+    grid-row: 3 / 5;
+  }
+  .conhecimento:nth-child(3)/*Python*/ {
+    grid-column: 3 / 16;
+    grid-row: 6 / 10;
+  }
+  .conhecimento:nth-child(4)/*JavaScript*/ {
+    grid-column: 3 / 16;
+    grid-row: 10 / 13;
+  }
+
+  .conhecimento:nth-child(5)/*Boostrap*/ {
+    grid-column: 3 / 16;
+    grid-row: 13 / 16;
+  }
+  .conhecimento:nth-child(6)/*Git*/ {
+    grid-column: 3 / 16;
+    grid-row: 16/ 18;
+  }
+  .projetos {
+    height: 1500px;
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(6, 6rem);
+    row-gap: 0.5rem;
+    vertical-align:middle;
+
+  }
+
+  .card-img-wrapper img {
+    padding: 30px;
+    justify-content: center;
+    justify-items: center;
+    vertical-align:middle;
+  }
+
+  #link-topo {
+    right: 5.5rem;
+    bottom: 0.8rem;
+  }
+
+  .footer-content {
+    justify-content: space-evenly;
+  }
+  .footer-content p {
+    font-size: smaller;
+    text-size-adjust: calc();
+  }
+}
