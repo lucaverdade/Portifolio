@@ -32,7 +32,7 @@
       <div class="banner" id="sobre-mim">
         <h1>Web Developer e Front End Designer</h1>
         <p> Luca Verdade Lenzoni</p>
-        <a href="#"><button>Sobre Mim</button> </a>
+        <a href="#luca"><button>Sobre Mim</button> </a>
       </div>
     </header>
 
