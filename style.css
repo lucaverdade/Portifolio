@@ -466,7 +466,7 @@ header {
   padding-left: 1rem;
 }
 .luca-text {
-  font-family: var(--font-primary)
+  font-family: var(--font-primary);
   margin-top: 1rem;
   font-size: 1.3rem;
   line-height: 1.9rem;
