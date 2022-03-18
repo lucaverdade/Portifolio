@@ -687,6 +687,10 @@ footer {
   font-size: 1.4rem;
 }
 
+.conhecimentos{
+  height: 700px;
+}
+
 @media (min-width: 880px) {
   .container {
     overflow-x: hidden;
