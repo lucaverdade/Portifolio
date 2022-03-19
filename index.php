@@ -32,7 +32,7 @@
       <div class="banner" id="sobre-mim">
         <h1>Web Developer e Front End Designer</h1>
         <p> Luca Verdade Lenzoni</p>
-        <a href="#luca"><button>Me conheça</button> </a>
+        <a href="#luca"><button>Mais Sobre Mim</button> </a>
       </div>
     </header>
 
@@ -115,7 +115,7 @@
           </div>
           <div class="conhecimento-text">
             <p>Algo com grande mercado, com uma diversidade imensa de “Bancos” e algo muito importante para o mercado de
-              trabalho e projetos. Já realizei alguns minicursos e diversas aulas na internet, sempre em busca de
+              trabalho e projetos. Já realizei alguns mini cursos e diversas aulas na internet, sempre em busca de
               entender mais dessa grande parte da tecnologia.</p>
           </div>
         </div>
@@ -128,7 +128,7 @@
             <p>Uma ferramenta muito utilizada nos meios da Programação, tanto para trabalhos em empresas da aérea, mas
               para projetos, onde ficam guardados em “nuvem” e podem ser clonados para o seu ou algum outro repositório,
               e conseguirá ver os códigos dos seus projetos e compartilha-los. Local adequado para trabalhar em equipe e
-              realizar multitarefas.</p>
+              realizar multi tarefas.</p>
           </div>
         </div>
 
@@ -149,9 +149,9 @@
             <img src="imagens/proj1.jpg" id="card1" alt="imagem do projeto ToDo" />
           </div>
           <div class="card-info">
-            <h2>DashBoard - Aletas Mais Bem Pagos.</h2>
+            <h2>DashBoard - Atletas Mais Bem Pagos.</h2>
             <h3>Python</h3>
-            <p>Uma DashBoard, feita a partir de uma lista dos Atletas mais bem pagos do mundo, entre 1990 a 2020.</p>
+            <p>Dash Board, feita a partir de uma lista dos atletas mais bem pagos do mundo, entre 1990 a 2020.</p>
            <!-- <a  href="" target="_blank" ><button  class="btn" >Saiba Mais </button>   </a> -->
           </div>
         </div>
@@ -163,8 +163,8 @@
           <div class="card-info">
             <h2>Busca-Imposto</h2>
             <h3>PHP, HTML e CSS</h3>
-            <p>Um site onde se pode pesquisar e comparar preços de impostos aplicados em diversos
-              produtos.Principalmente informatica.</p>
+            <p>Site onde se pode pesquisar e comparar preços de impostos aplicados em diversos
+              produtos.Principalmente informática.</p>
               <a  href="https://github.com/lucaverdade/Busca-Imposto" target="_blank" ><button  class="btn" >Saiba Mais </button>   </a>  
           </div>
         </div>
@@ -175,7 +175,7 @@
           <div class="card-info">
             <h2>Mini Jogos</h2>
             <h3>Python</h3>
-            <p>Alguns jogos simples, feitos para passar o tempo e treinar um pouco de programção.</p>
+            <p>Alguns jogos simples, feitos para passar o tempo e treinar um pouco de programação.</p>
            <!-- <a  href="https://github.com/lucaverdade/MiniJogos" target="_blank" ><button  class="btn" >Saiba Mais </button>   </a>  -->
           </div>
         </div>
@@ -192,7 +192,7 @@
               <h3>Contato</h3>
             </div>
             <div class="luca-text">
-              <p>Asa Norte, Brasilia,
+              <p>Asa Norte, Brasília,
                 Distrito Federal. Brasil. </p>
               <p>11/09/2001</p>
               <p>lvlenzoni@outlook.com</p>
@@ -235,7 +235,7 @@
           <div class="luca">
             <div class="luca-header">
               <i class="fa-solid fa-briefcase"></i>
-              <h3>Experiencia</h3>
+              <h3>Experiência</h3>
             </div>
             <div class="luca-text">
               <p>Estagiei na empresa MicroTecnica, empresa de locação, revenda, retrabalhos de computadores e
@@ -251,7 +251,7 @@
             </div>
             <div class="luca-text">
               <p>Universidade de Brasília (UnB) -
-                Engenharia de Sofware - 2020 - 2025.(Em graduação)</p>
+                Engenharia de Software - 2020 - 2025.(Em graduação)</p>
               <p>Centro Universitário de Brasília (UniCeuB) -
                 Engenharia da computação - Jan 2020 - Dez 2020. (Dois semestres feitos, atualmente trancado)</p>
             </div>
@@ -263,9 +263,9 @@
             </div>
             <div class="luca-text">
               <p>Ensino Médio - Marista João Paulo II
-                Brasilia, Brasil | 1 Ano ao 3 ano (2017 – 2019).</p>
+                Brasília, Brasil | 1 Ano ao 3 ano (2017 – 2019).</p>
               <p>Ensino Fundamental - Marista João Paulo II
-                Brasilia, Brasil | 6 Ano ao 9 Ano (2013 – 2016).</p>
+                Brasília, Brasil | 6 Ano ao 9 Ano (2013 – 2016).</p>
             </div>
           </div>
 

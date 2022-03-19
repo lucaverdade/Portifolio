@@ -648,10 +648,13 @@ footer {
 
 @media (max-width: 630px) {
   .lucaS {
-    height: 2300px;
+    height: 2100px;
   }
   .luca-text p {
     line-height: 1.2rem;
+  }
+  .luca-text {
+    margin-bottom: 4rem;
   }
   .luca-img-wrapper {
     visibility: hidden;
@@ -687,10 +690,17 @@ footer {
   font-size: 1.4rem;
 }
 
-.conhecimentos{
+.conhecimentos {
   height: 700px;
 }
-
+.conhecimento {
+  margin-bottom: 7rem;
+}
+.card-info  p {
+margin-left: 1.5rem;  
+margin-right: 1.5rem;
+line-height: 1.5rem;
+}
 @media (min-width: 880px) {
   .container {
     overflow-x: hidden;
