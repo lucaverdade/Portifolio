@@ -152,7 +152,7 @@
             <h2>DashBoard - Atletas Mais Bem Pagos.</h2>
             <h3>Python</h3>
             <p>Dash Board, feita a partir de uma lista dos atletas mais bem pagos do mundo, entre 1990 a 2020.</p>
-           <!-- <a  href="" target="_blank" ><button  class="btn" >Saiba Mais </button>   </a> -->
+           <a  href="https://github.com/lucaverdade/DashBoard" target="_blank" ><button  class="btn" >Saiba Mais </button>   </a> 
           </div>
         </div>
 
@@ -173,10 +173,10 @@
             <img src="imagens/proj3.jpg" id="card3" alt="imagem do projeto Casa Bela" />
           </div>
           <div class="card-info">
-            <h2>Mini Jogos</h2>
+            <h2>Recomenda AI!</h2>
             <h3>Python</h3>
-            <p>Alguns jogos simples, feitos para passar o tempo e treinar um pouco de programação.</p>
-           <!-- <a  href="https://github.com/lucaverdade/MiniJogos" target="_blank" ><button  class="btn" >Saiba Mais </button>   </a>  -->
+            <p>Sistema de Recomendação de filmes, baseado no KNN(k-nearest neighbors algorithm) em python</p>
+           <a  href="https://github.com/lucaverdade/Recomenda-Filmes" target="_blank" ><button  class="btn" >Saiba Mais </button>   </a> 
           </div>
         </div>
       </div>
