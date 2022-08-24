@@ -114,9 +114,7 @@
             <h3>Banco de Dados</h3>
           </div>
           <div class="conhecimento-text">
-            <p>Algo com grande mercado, com uma diversidade imensa de “Bancos” e algo muito importante para o mercado de
-              trabalho e projetos. Já realizei alguns mini cursos e diversas aulas na internet, sempre em busca de
-              entender mais dessa grande parte da tecnologia.</p>
+            <p>Trabalhei com o MYSQL, em um projeto Pessoal, no qual fiz um "recomendador" de filmes em Python, onde a lista de filmes gerada esta em contato com um banco de dados.</p>
           </div>
         </div>
         <div class="conhecimento">
@@ -224,7 +222,7 @@
                 Sou estudante de Engenharia de Software na Universidade de Brasília (UnB), e um grande fã de tecnologia.
                 Pra ser sincero, meu objetivo antes de acabar o Ensino Médio, não era trabalhar, nem estudar tecnologia,
                 nem mesmo programação (não conhecia nada desse mundo mesmo), mas ao dar uma chance por indicação de
-                outros, me apeguei a programação e hoje não me vejo longe de trabalhar com tecnologia. </p>
+                outros, me apeguei a programação e hoje não me vejo longe de trabalhar com tecnologia. Sempre fui uma pessoa muito curiosa, fui o motivo que me despertou a estudar softwares e programação, foi onde queria entender como funciona uma máquina, como algo que não pensa, consegue fazer as coisas que queremos e isso sempre me facionou. Tenho projetos feitos na faculdade como exemplo; um webapp onde é possível fazer comparações de preços de produtos do Brasil com os EUA, quanto de imposto pagamos por produtos de todos os tipos. Estou trabalhando em um sistema de recomendação de filmes, em Python com machine learning. Onde ao fazer sua classificação ao dos filmes que já viu e recomendaria algo que possa gostar também. Adoro front end pois é algo que estimula nossa criatividade e faz a conexão com o “mundo real”, sou uma pessoa que adora perguntar e ama conversar, digo sempre que aprendemos ate de só observar alguém trabalhando. Estou em busca de aprendizado na área e com muita curiosidade de aprender mais e evoluir. </p>
               <p>Na parte de programar gosto bastante da parte de Desenvolvimento Web, principalmente Front-End, onde se
                 consegue utilizar a parte criativa e chamativa de um projeto, começando por adicionar textos e imagens
                 até anima-las, modifica-las e estilização da página, gosto dessa parte criativa e inusitada de um novo
@@ -238,10 +236,9 @@
               <h3>Experiência</h3>
             </div>
             <div class="luca-text">
-              <p>Estagiei na empresa MicroTecnica, empresa de locação, revenda, retrabalhos de computadores e
-                aperfeiçoamento de softwares e atualizações de Hardware. Atuei na parte de instalação de Hardware e
-                atualização de Softwares, principalmente em Notebooks e Desktops e em suporte Técnico a diversos tipos
-                de maquinas.</p>
+              <p>2022 (atual) – CNP HOLDING BRASIL (ANTIGA CAIXA SEGURADORA)
+Cargo: Estagiário em Auditoria de TI, responsável por extrair/tratar bases usando PLACKER, auxilio em auditorias internas de TI na holding, onde participei de reuniões de entendimento de diversas áreas da empresa para maior compreensão para auditar, áreas nas quais eu participei de auditorias: Infraestrutura, Segurança, Rede, compartilhamento de informações internas e Desenvolvimento de produtos.
+.</p>
             </div>
           </div>
           <div class="luca">
