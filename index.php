@@ -147,10 +147,10 @@
             <img src="imagens/proj1.jpg" id="card1" alt="imagem do projeto ToDo" />
           </div>
           <div class="card-info">
-            <h2>DashBoard - Atletas Mais Bem Pagos.</h2>
-            <h3>Python</h3>
-            <p>Dash Board, feita a partir de uma lista dos atletas mais bem pagos do mundo, entre 1990 a 2020.</p>
-           <a  href="https://github.com/lucaverdade/DashBoard" target="_blank" ><button  class="btn" >Saiba Mais </button>   </a> 
+          <h2>Organograma</h2>
+            <h3>React - Java Script</h3>
+            <p>Um React App, onde é feito de forma interativa e reativa. Cards com a escalação do time e de cada membro do clã, suas funções e mapas favoritos.</p>
+            <a  href="https://organo-r6.vercel.app/" target="_blank" ><button  class="btn" >Saiba Mais </button>   </a>  
           </div>
         </div>
 
@@ -171,17 +171,10 @@
             <img src="imagens/proj3.jpg" id="card3" alt="imagem do projeto Casa Bela" />
           </div>
           <div class="card-info">
-<<<<<<< HEAD
-            <h2>Organograma</h2>
-            <h3>React - Java Script</h3>
-            <p>Um React App, onde é feito de forma interativa e reativa. Cards com a escalação do time e de cada membro do clã, suas funções e mapas favoritos.</p>
-            <a  href="https://organo-r6.vercel.app/" target="_blank" ><button  class="btn" >Saiba Mais </button>   </a> 
-=======
             <h2>Recomenda AI!</h2>
             <h3>Python</h3>
             <p>Sistema de Recomendação de filmes, baseado no KNN(k-nearest neighbors algorithm) em python</p>
            <a  href="https://github.com/lucaverdade/Recomenda-Filmes" target="_blank" ><button  class="btn" >Saiba Mais </button>   </a> 
->>>>>>> 8073b56ab5cb7bc0af43e177c15cbe9e4e1829ab
           </div>
         </div>
       </div>
