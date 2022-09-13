@@ -236,14 +236,9 @@
               <h3>Experiência</h3>
             </div>
             <div class="luca-text">
-<<<<<<< HEAD
-              <p>Tenho experiência com diversas aplicações Web na parte de Front End (HTML, CSS, Javascript e React). Tenho alguns projetos publicados como um WebApp chamado "Busca Imposto", onde você consegue comprar o quanto gastamos em impostos em diversos produtos aqui no Brasil
-                fiz também um DashBoard com, os atletas mais bem pagos fo mundo nos últimos 20 anos e no momento trabalhando em um projeto de recomendação em Python e em busca de uma oportunidade na area de programação.</p>
-=======
               <p>2022 (atual) – CNP HOLDING BRASIL (ANTIGA CAIXA SEGURADORA)
 Cargo: Estagiário em Auditoria de TI, responsável por extrair/tratar bases usando PLACKER, auxilio em auditorias internas de TI na holding, onde participei de reuniões de entendimento de diversas áreas da empresa para maior compreensão para auditar, áreas nas quais eu participei de auditorias: Infraestrutura, Segurança, Rede, compartilhamento de informações internas e Desenvolvimento de produtos.
 .</p>
->>>>>>> 8073b56ab5cb7bc0af43e177c15cbe9e4e1829ab
             </div>
           </div>
           <div class="luca">
